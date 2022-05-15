@@ -6,5 +6,110 @@
     <description>Recent content on Savensound</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sun, 15 May 2022 20:32:11 +0800</lastBuildDate><atom:link href="https://idunit.github.io/savensound/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>提供完整服務</title>
+      <link>https://idunit.github.io/savensound/blog/log-1/</link>
+      <pubDate>Sat, 14 May 2022 22:29:26 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/blog/log-1/</guid>
+      <description>專人現場錄音，減輕病友及家屬負擔 回聲計畫建立起一套完整服務，利用專業錄音設備、專門設計的文稿，並由專人協助語音存錄，藉由這些存錄的語音資料，結合現今的語音合成技術重建病友獨特的聲音。
+目前回聲計畫的服務尚在測試階段，所需的聲音資料至少達到15分鐘的高品質語音錄製，大約每一次錄製流程耗時約一個半小時。若錄製過程中病友需要更多的休息時間，則流程將會延長。
+此外，由於重建後的語音是藉由語音合成技術後產生，並非完全是病友原本的聲音，但計畫團隊力求相似，讓病友或家屬加以確認。
+病友若有餘力錄製更多的語音資料，則會提升重建後語音的個人相似度。</description>
+    </item>
+    
+    <item>
+      <title>及早錄存獨特的自己</title>
+      <link>https://idunit.github.io/savensound/blog/log-2/</link>
+      <pubDate>Sat, 14 May 2022 22:29:35 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/blog/log-2/</guid>
+      <description>讓「回聲」為病友回復自己的聲音 事實上，並非所有 ALS 的病友都能保留並重建自己的聲音。由於在不同階段的 ALS 病友有不同的發音障礙，因此重建出來的語音在個人相似度上也會有所差異。
+因此本計畫的執行，是希望病友能有機會使用本計畫開發的技術，於尚未產生過多發音障礙之前，可盡早及時地保存自己的聲音，讓重建後的合成語音更能相似於自己獨特的聲音，若在病友失去正常說話能力的時候，能使用此技術，還能用自己音色的合成語音發聲！</description>
+    </item>
+    
+    <item>
+      <title>服務流程</title>
+      <link>https://idunit.github.io/savensound/blog/log-3/</link>
+      <pubDate>Sun, 15 May 2022 20:16:12 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/blog/log-3/</guid>
+      <description> 使用者註冊 使用者收到認證 登入系統錄音 系統建立語音系統 使用者試用語音系統並回饋系統 系統依據使用者回饋調整 使用者開始使用系統  </description>
+    </item>
+    
+    <item>
+      <title>文字轉語音系統</title>
+      <link>https://idunit.github.io/savensound/news/news-6/</link>
+      <pubDate>Sun, 15 May 2022 20:11:12 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-6/</guid>
+      <description>完成 20 位病友客製化文字轉語音系統</description>
+    </item>
+    
+    <item>
+      <title>網站 SSL 憑證獲得</title>
+      <link>https://idunit.github.io/savensound/news/news-5/</link>
+      <pubDate>Sun, 15 May 2022 20:11:10 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>網站 DNS 獲得</title>
+      <link>https://idunit.github.io/savensound/news/news-4/</link>
+      <pubDate>Sun, 15 May 2022 20:11:07 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文字轉語音系統</title>
+      <link>https://idunit.github.io/savensound/news/news-3/</link>
+      <pubDate>Fri, 18 Jun 2021 20:11:04 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-3/</guid>
+      <description>完成 6 位病友客製化文字轉語音系統</description>
+    </item>
+    
+    <item>
+      <title>文字轉語音系統</title>
+      <link>https://idunit.github.io/savensound/news/news-2/</link>
+      <pubDate>Fri, 18 Jun 2021 19:57:20 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-2/</guid>
+      <description>完成 3 位病友客製化文字轉語音系統</description>
+    </item>
+    
+    <item>
+      <title>VoiceBank 語音銀行 - 錄音指引 (2022年1月版)</title>
+      <link>https://idunit.github.io/savensound/tutor/</link>
+      <pubDate>Fri, 15 May 2020 21:32:50 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/tutor/</guid>
+      <description>您好，
+很感謝您參與 「VoiceBank 語音銀行」的試用，試用網址為：
+https://voicebank.ce.ntpu.edu.tw/
+您可以在 VoiceBank 網站上錄製自己的語音，「回聲計畫」團隊將使用您錄製的語音，建立具有您語音音色的客製化文字轉語音系統，錄製的語音也將會捐贈於漸凍人協會的 VoiceBank 活動，在您試用之前，請詳閱「VoiceBank 語音銀行」使用條款 (Terms of use)，以了解更多細節：
+https://hackmd.io/@cychiang-ntpu/BkYkrSR-Y
+以下簡介「VoiceBank 語言銀行」的使用方法：
+  準備電腦 請準備桌上型個人電腦（桌電）或是筆記型電腦（筆電），目前 VoiceBank 網站不支援行動裝置（平板 or 手機）。桌電一般來講可能會有風扇的噪音，而筆電大多在使用時已經沒有明顯噪音，所以比較推薦使用筆電來進行錄音。
+  準備麥克風 一般線上會議或是遠距教學使用的麥克風或耳機加麥克風（耳麥），手機通話用的免持聽筒（耳麥）也可以，如果是 USB 端子的麥克風更好。若您是使用筆記型電腦，也可以直接使用筆記型電腦裡內建的麥克風（如果音質夠好）。
+  選擇錄音地點或控制錄音環境 盡量找安靜、無明顯干擾的空間，常見干擾如空間回音、風扇噪音、冷氣運轉聲 (調低溫度及風量可有效改善) 及敲擊聲等，皆應盡量減少。
+  觀看 「VoiceBank 語音銀行 - 錄音指引」 影片
+  登入 VoiceBank 語音銀行網站並開始錄音。 注意 (1) 目前瀏覽器僅支援 Google Chrome 以及 Mozilla FireFox 這兩種瀏覽器。(2) 一定要請您先觀看完 「VoiceBank 語音銀行 - 錄音指引」 再開始錄音。 VoiceBank 語音銀行網址： https://voicebank.ce.ntpu.edu.tw/
+  請於 2022 年 1 月 17 日 18:00 前完成錄音 因為建立您的客製化文字轉語音系統需要幾天的時間，所以請在2022 年 1 月 17 日 18:00 前完成錄音，感謝您的配合！</description>
+    </item>
+    
+    <item>
+      <title>計畫開始啟動</title>
+      <link>https://idunit.github.io/savensound/news/news-1/</link>
+      <pubDate>Wed, 01 Apr 2020 19:56:53 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-1/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

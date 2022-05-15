@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on Savensound</title>
+    <link>https://idunit.github.io/savensound/news/</link>
+    <description>Recent content in News on Savensound</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 15 May 2022 20:11:12 +0800</lastBuildDate><atom:link href="https://idunit.github.io/savensound/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>文字轉語音系統</title>
+      <link>https://idunit.github.io/savensound/news/news-6/</link>
+      <pubDate>Sun, 15 May 2022 20:11:12 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-6/</guid>
+      <description>完成 20 位病友客製化文字轉語音系統</description>
+    </item>
+    
+    <item>
+      <title>網站 SSL 憑證獲得</title>
+      <link>https://idunit.github.io/savensound/news/news-5/</link>
+      <pubDate>Sun, 15 May 2022 20:11:10 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>網站 DNS 獲得</title>
+      <link>https://idunit.github.io/savensound/news/news-4/</link>
+      <pubDate>Sun, 15 May 2022 20:11:07 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>文字轉語音系統</title>
+      <link>https://idunit.github.io/savensound/news/news-3/</link>
+      <pubDate>Fri, 18 Jun 2021 20:11:04 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-3/</guid>
+      <description>完成 6 位病友客製化文字轉語音系統</description>
+    </item>
+    
+    <item>
+      <title>文字轉語音系統</title>
+      <link>https://idunit.github.io/savensound/news/news-2/</link>
+      <pubDate>Fri, 18 Jun 2021 19:57:20 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-2/</guid>
+      <description>完成 3 位病友客製化文字轉語音系統</description>
+    </item>
+    
+    <item>
+      <title>計畫開始啟動</title>
+      <link>https://idunit.github.io/savensound/news/news-1/</link>
+      <pubDate>Wed, 01 Apr 2020 19:56:53 +0800</pubDate>
+      
+      <guid>https://idunit.github.io/savensound/news/news-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
