@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>需要幫助？ on Savensound</title>
-    <link>http://example.org/contact/</link>
+    <link>https://idunit.github.io/savensound/contact/</link>
     <description>Recent content in 需要幫助？ on Savensound</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 15 May 2022 20:32:11 +0800</lastBuildDate><atom:link href="http://example.org/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 20:32:11 +0800</lastBuildDate><atom:link href="https://idunit.github.io/savensound/contact/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
